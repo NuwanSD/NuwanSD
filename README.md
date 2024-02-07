@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sagara Nuwan
 ====================================================================================================================================
 
-Web Developer
+Web Developer | Software Developer | UI/UX Designer | Shopify Developer
 -------------
 
 I am an undergraduate at the Faculty of Computing & Technology, University of Kelaniya, Sri Lanka. Currently, I work as a front-end developer intern at Skylake Ltd. Still I am in the process of learning full-stack development. I am excited to continue learning and growing as a developer in the exciting and fast-paced world of e-commerce.
