@@ -8,6 +8,7 @@ I am an undergraduate at the Faculty of Computing & Technology, University of Ke
 
 * 🌍  I'm based in Sri Lanka
 * 🖥️  See my portfolio at [sagaradnuwan.netlify.app](http://sagaradnuwan.netlify.app/) or [sagaradnuwan.me](https://my-new-portfolio-nextjs.vercel.app/)
+* 🖥️  See my Linkedin at [in-sagara-nuwan](https://www.linkedin.com/in/sagara-nuwan-70160417b/)
 * ✉️  You can contact me at [sagaradnuwan@gmail.com](mailto:sagaradnuwan@gmail.com)
 * 🧠  I'm learning NextJS and Python
 * 🤝  I'm open to collaborating on interesting projects
