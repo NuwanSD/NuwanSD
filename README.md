@@ -7,7 +7,7 @@ Web Developer | Software Developer | Shopify Developer
 I am an undergraduate at the Faculty of Computing & Technology, University of Kelaniya, Sri Lanka. Currently, I work as a front-end developer intern at Skylake Ltd. Still I am in the process of learning full-stack development. I am excited to continue learning and growing as a developer in the exciting and fast-paced world of e-commerce.
 
 * 🌍  I'm based in Sri Lanka
-* 🖥️  See my portfolio at [sagaradnuwan.netlify.app](http://sagaradnuwan.netlify.app/) or [sagaradnuwan.me](https://sagaradnuwanme.vercel.app/)
+* 🖥️  See my portfolio at [sagaradnuwan](http://sagaradnuwan.netlify.app/) or [sagaradnuwanme](https://sagaradnuwanme.vercel.app/)
 * 🖥️  See my Linkedin at [in-sagara-nuwan](https://www.linkedin.com/in/sagara-nuwan-70160417b/)
 * ✉️  You can contact me at [sagaradnuwan@gmail.com](mailto:sagaradnuwan@gmail.com)
 * 🧠  I'm learning NextJS and Python
