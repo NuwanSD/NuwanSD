@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer | Software Developer | Shopify Developer
 ------------------------------------------------------
 
-I am an undergraduate at the Faculty of Computing & Technology, University of Kelaniya, Sri Lanka. Currently, I work as a front-end developer intern at Skylake Ltd. Still I am in the process of learning full-stack development. I am excited to continue learning and growing as a developer in the exciting and fast-paced world of e-commerce.
+I am an enthusiastic and motivated Software Developer. Currently, Following a BICT (Hons) degree, specializing in Software System Pathway as an undergraduate at the Faculty of Computing & Technology, University of Kelaniya, Sri Lanka. I am actively expanding my skill set toward full-stack development. With a strong interest in building impactful software solutions, I’m eager to apply my knowledge to real-world applications, especially in the dynamic and ever-evolving field of IT. I am passionate about continuous learning and excited to keep growing as a developer in the exciting and fast-paced world of e-commerce.
 
 * 🌍  I'm based in Sri Lanka
 * 🖥️  See my portfolio at [sagaradnuwan](https://sagaradnuwan.vercel.app)
 * 🖥️  See my Linkedin at [in-sagara-nuwan](https://www.linkedin.com/in/sagara-nuwan-70160417b/)
 * ✉️  You can contact me at [sagaradnuwan@gmail.com](mailto:sagaradnuwan@gmail.com)
-* 🧠  I'm learning NextJS and Python
+* 🧠  I'm learning software engineering
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
