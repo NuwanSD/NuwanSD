@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer | Software Developer | Shopify Developer
 ------------------------------------------------------
 
-I am an enthusiastic and motivated Software Developer. Currently, Following a BICT (Hons) degree, specializing in Software System Pathway as an undergraduate at the Faculty of Computing & Technology, University of Kelaniya, Sri Lanka. I am actively expanding my skill set toward full-stack development. With a strong interest in building impactful software solutions, I’m eager to apply my knowledge to real-world applications, especially in the dynamic and ever-evolving field of IT. I am passionate about continuous learning and excited to keep growing as a developer in the exciting and fast-paced world of e-commerce.
+I am an enthusiastic Software Developer, pursuing a BICT (Hons) degree focusing on Software Engineering. I have hands-on experience as a freelance web developer building real-world applications. I thrive in dynamic team environments and enjoy collaborating on innovative projects. With my passion for full-stack development using .NET, MERN and Web API, I am committed to continuous learning and delivering impactful solutions as a developer in the fast-paced world of IT and e-commerce.
 
 * 🌍  I'm based in Sri Lanka
 * 🖥️  See my portfolio at [sagaradnuwan](https://sagaradnuwan.vercel.app)
