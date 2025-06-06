@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sagara Nuwan
 ====================================================================================================================================
 
-Web Developer | Software Developer | Shopify Developer
+Aspiring Software Engineer | .NET Enthusiast | MERN Stack | Full-Stack Developer | AI Enthusiast 
 ------------------------------------------------------
 
 I am an enthusiastic Software Developer, pursuing a BICT (Hons) degree focusing on Software Engineering. I have hands-on experience as a freelance web developer building real-world applications. I thrive in dynamic team environments and enjoy collaborating on innovative projects. With my passion for full-stack development using .NET, MERN and Web API, I am committed to continuous learning and delivering impactful solutions as a developer in the fast-paced world of IT and e-commerce.
